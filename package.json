@@ -1,6 +1,6 @@
 {
   "name": "@bpmn-io/replace-ids",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Replace ID placeholders in a template with actual ids",
   "main": "index.js",
   "scripts": {
