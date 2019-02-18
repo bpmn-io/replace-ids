@@ -1,5 +1,5 @@
 {
-  "name": "replace-ids",
+  "name": "@bpmn-io/replace-ids",
   "version": "0.1.0",
   "description": "Replace ID placeholders in a template with actual ids",
   "main": "index.js",
@@ -7,6 +7,9 @@
     "all": "run-s lint test",
     "test": "mocha -r esm test.js",
     "lint": "eslint ."
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
