@@ -1,6 +1,6 @@
 import { expect } from 'chai';
 
-import replaceIds from '.';
+import replaceIds from './index.js';
 
 
 describe('replace-ids', function() {
